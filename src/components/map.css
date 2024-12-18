@@ -1,0 +1,27 @@
+
+.delete-button{
+    padding: 10px;
+    color: #191970;
+    background-color: #F0B90B;
+    border: #F0B90B;
+    border-radius: 10px;
+    font-weight: 600;
+    margin-right: 5px;
+}
+.delete-button:hover{
+    cursor: pointer;
+    background-color: #f8d768;
+}
+.edit-button{
+    padding: 10px;
+    color: #191970;
+    background-color: #F0B90B;
+    border: #F0B90B;
+    border-radius: 10px;
+    font-weight: 600;
+    margin-right: 5px;
+}
+.edit-button:hover{
+    cursor: pointer;
+    background-color: #f8d768;
+}
