@@ -8,7 +8,7 @@ import 'react-toastify/dist/ReactToastify.css';
 function App() { 
   // State to hold the list of locations
   const [locations, setLocations] = useState([]);
-
+ 
   // State to track the location currently being edited
   const [editingLocation, setEditingLocation] = useState(null);
 

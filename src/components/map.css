@@ -1,4 +1,7 @@
-
+.map-container{
+    height: 500px;
+    width: 100%;
+}
 .delete-button{
     padding: 10px;
     color: #191970;
